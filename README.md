@@ -2,7 +2,7 @@
 
 ## AIM
 
-<img src="https://github.com/Janarthanan2/DL_Ex03_mnist-classification/assets/119393515/9b79b295-5ea9-4d88-8593-659ed03865c0" width=50%>
+<img src="https://github.com/Janarthanan2/DL_Ex03_mnist-classification/assets/119393515/9b79b295-5ea9-4d88-8593-659ed03865c0" >
 
 ## Problem Statement and Dataset
 
