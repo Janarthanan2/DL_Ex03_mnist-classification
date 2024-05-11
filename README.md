@@ -1,8 +1,8 @@
 # Convolutional Deep Neural Network for Digit Classification
 
 ## AIM
+To Develop a convolutional deep neural network for digit classification and to verify the response for scanned handwritten images.
 
-<img src="https://github.com/Janarthanan2/DL_Ex03_mnist-classification/assets/119393515/9b79b295-5ea9-4d88-8593-659ed03865c0" >
 
 ## Problem Statement and Dataset
 MNIST Handwritten Digit Classification Dataset is a dataset of 60,000 small square 28×28 pixel grayscale images of handwritten single digits between 0 and 9.
@@ -11,7 +11,7 @@ The task is to classify a given image of a handwritten digit into one of 10 clas
 
 ## Neural Network Model
 
-Include the neural network model diagram.
+<img src="https://github.com/Janarthanan2/DL_Ex03_mnist-classification/assets/119393515/9b79b295-5ea9-4d88-8593-659ed03865c0" >
 
 ## DESIGN STEPS
 
